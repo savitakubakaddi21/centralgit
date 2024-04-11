@@ -1,1 +1,5 @@
 Hello savita
+n1=100
+n2=101
+sum = n1 + n2
+print(sum)
